@@ -8,13 +8,13 @@ export interface Student {
     firstName: "Marcrine",
     lastName: "Musimbi",
     age: 24,
-    location: "Machakos, Kenya",
+    location: "Kenya",
   };
   const studentB: Student = {
     firstName: "Mikaelson",
     lastName: "Nicklaus",
     age: 22,
-    location: "Lodz, Poland",
+    location: "Poland",
   };
   
   const studentsList: Array<Student> = [
